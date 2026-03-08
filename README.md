@@ -1,31 +1,49 @@
-<!-- <div style="background-color: #000;  height: 117px; border-radius: 6px;"> -->
-  <h1 align="center">Hi 👋, I'm Cícero Henrique Costa</h1>
-  <h3 align="center">Systems analyst and developer</h3>
-<!-- </div> -->
+<div align="center">
+  <h1>Hi 👋, I'm Cícero Henrique Costa</h1>
+  <h3>Software Engineer | Kotlin & Java</h3>
+  
+  [![](https://raw.githubusercontent.com/cichcosta/cichcosta/master/profile.gif)](https://www.cichcosta.com/)
+</div>
 
-[![](https://raw.githubusercontent.com/ch-costa/ch-costa/master/profile.gif)](https://www.ch-costa.com/)
+### 📖 Professional Summary
 
-### Languages
+I am a **Software Engineer** based in Brazil with a strong background in the **JVM ecosystem**. Currently, I am focused on building high-scale, resilient microservices using **Kotlin** and **Java**.
 
+With deep experience in **SQL Server** and legacy systems, I am now specializing in modern, cloud-native architectures involving **PostgreSQL**, **Kafka**, and **Spring Boot 3.x**. My goal is to deliver clean, maintainable code that solves complex business challenges for global companies.
+
+---
+
+### 🛠 Core Technical Stack
+
+**Primary Backend Focus:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openJdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoft-sql-server&logoColor=B74729)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
-### Technologies
-
+**Infrastructure & Messaging:**
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apacheKafka)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+**Legacy & Secondary Skills:**
+![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=microsoft-sql-server)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
 
-<a href="https://www.ch-costa.com/">
-  <img
-    height="137px"
-    src="https://github-readme-stats.vercel.app/api?username=ch-costa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,FF0078,ea6161,ffc64d,fffc4d&theme=graywhite" /><!-- wi*quL3fcV --><img
-    height="137px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-costa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fffc4d,4dfcff,2bafef&theme=graywhite"/>
-</a>
+---
+
+### 🔭 Current Focus
+
+- 🏗️ Developing the **Subscription Ledger API** (Kotlin + Spring Boot 3 + Postgres).
+- 🦀 Exploring **Kotlin Multiplatform (KMP)** for shared logic between platforms.
+- 🗣️ Practicing Technical English for global collaboration.
+
+---
+
+### 📫 Let's connect
+
+- **LinkedIn:** [linkedin.com/in/cicero-henrique](https://linkedin.com/in/cichcosta)
+- **Website:** [cichcosta.com](https://www.cichcosta.com/)
